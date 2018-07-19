@@ -22,7 +22,7 @@
         </div>
         <p class="overview">
         {{result.overview}}
-          Movie overivew goes here. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Cras dapibus. Praesent porttitor, nulla vitae posuere iaculis, arcu nisl dignissim dolor, a pretium mi sem ut ipsum.
+          
         </p>
         <p class="release-date">Original Release:{{result.release_date}}</p>
         <ul class="genre-list">
